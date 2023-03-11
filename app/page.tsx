@@ -8,8 +8,9 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        \<p className="text-3xl text-green-500">User 2 add content here!</p>
         <p className="text-xl font-bold text-red-300">
-          Get started by editing&nbsp;
+          Get started by editing here!&nbsp;
           <code className={styles.code}>app/page.tsx</code>
         </p>
         <div>
