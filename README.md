@@ -5,6 +5,8 @@ This examples shows how to use Docker with Next.js and deploy to multiple enviro
 # How to use
 ## Using Docker and Makefile
 
+Make sure Docker is installed. If not, [download here](https://docs.docker.com/get-docker/)
+
 ### Development environment - for doing testing
 
 ```
